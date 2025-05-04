@@ -6,7 +6,7 @@ import './Education.css'
 import EducationCard from './EducationCard';
 
 import { educationData } from '../../data/educationData'
-import profileImage from '../../assets/png/ucr_submit-your-uc-application-to-ucr_blog.avif'
+import profileImage from '../../assets/png/UC_Riverside_Highlanders_logo.svg.png'
 
 function Education() {
 
