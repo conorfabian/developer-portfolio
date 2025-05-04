@@ -3,6 +3,7 @@ import React, { useContext } from 'react';
 import './About.css';
 import { ThemeContext } from '../../contexts/ThemeContext';
 import { aboutData } from '../../data/aboutData'
+import profileImage from '../../assets/png/IMG_4731.jpg'
 
 
 
@@ -22,10 +23,7 @@ function About() {
                     <p style={{color:theme.tertiary80}}>{aboutData.description1}<br/><br/>{aboutData.description2}</p>
                 </div>
                 <div className="about-img">
-                    <img 
-                        src={aboutData.image === 1 ? theme.aboutimg1 : theme.aboutimg2}  
-                        alt="" 
-                    />
+                    <img src={profileImage} alt="Dublin, Ireland"/>
                 </div>
             </div>
         </div>

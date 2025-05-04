@@ -6,6 +6,7 @@ import './Education.css'
 import EducationCard from './EducationCard';
 
 import { educationData } from '../../data/educationData'
+import profileImage from '../../assets/png/ucr_submit-your-uc-application-to-ucr_blog.avif'
 
 function Education() {
 
@@ -28,7 +29,7 @@ function Education() {
                     ))}
                 </div>
                 <div className="education-image">
-                    <img src={theme.eduimg} alt=""/>
+                    <img src={profileImage} alt=""/>
                 </div>
             </div>
         </div>
