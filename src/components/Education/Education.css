@@ -1,25 +1,26 @@
 .education {
-    min-height: 100vh;
+    min-height: 50vh;
 }
 
 .education-body {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     width: 100%;
     color: hsla(117, 56%, 49%, 0.702);
 }
 
 .education-description {
-    width: 100%;
-    flex: 0.65;
+    width: 50%;
+    flex: 0.55;
     padding: 2rem;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
     margin-left: 7%;
+    margin-right: 7%;
 }
 
 .education-description > h1{
@@ -81,13 +82,16 @@
 .education-image {
     box-sizing: border-box;
     padding: 1rem;
-    flex: 0.35;
+    flex: 0.65;
     margin-top: 1rem;
     pointer-events: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .education-image > img {
-    width: 100%;
+    width: 50%;
 }
 
 
