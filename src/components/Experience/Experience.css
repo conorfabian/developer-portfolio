@@ -18,7 +18,7 @@
     flex-direction: column;
     align-items: flex-end;
     justify-content: center;
-    margin-right: 2rem;
+    margin-right: 7%;
 }
 
 .experience-description > h1 {
@@ -32,8 +32,8 @@
     flex-direction: row;
     align-items:flex-start;
     justify-content: flex-start;
-    width: 90%;
-    height: 140px;
+    width: 100%;
+    height: 130px;
     padding: 1.5rem;
     border-radius: 20px;
     margin-bottom: 1.5rem;
