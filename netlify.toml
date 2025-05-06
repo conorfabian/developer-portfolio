@@ -4,4 +4,5 @@
 
 [build.environment]
   NODE_VERSION = "16"
-  NPM_FLAGS = "--no-optional" 
+  NPM_FLAGS = "--no-optional"
+  CI = "false" 
