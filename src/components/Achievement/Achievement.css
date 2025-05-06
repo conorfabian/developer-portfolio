@@ -1,5 +1,5 @@
 .achievement {
-    min-height: 50vh;
+    min-height: 10vh;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;

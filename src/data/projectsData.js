@@ -1,4 +1,5 @@
 import one from '../assets/svg/projects/one.svg'
+import projectImage from '../assets/png/FEa46b5XIAkSnA5.jpg'
 // Commented out unused imports
 // import two from '../assets/svg/projects/two.svg'
 // import three from '../assets/svg/projects/three.svg'
@@ -13,11 +14,11 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'NBA Player Prediction Model',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
+        projectDesc: 'This project aims to predict NBA player performance using supervised regression by collecting historical data, engineering features, training models, and evaluating accuracy with Python tools',
         tags: ['Python', 'Scikit-Learn', 'Jupyter Lab'],
         code: 'https://github.com/conorfabian',
         demo: 'https://github.com/conorfabian',
-        image: one
+        image: projectImage
     }
 ]
 

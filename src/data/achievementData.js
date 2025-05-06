@@ -1,13 +1,15 @@
+import googleCloudImage from '../assets/png/nwu8SJvKV18iFDc0AnNUSFQagc_3y2+rKY9J4qnv5vg=.png'
+
 export const achievementData = {
     bio : "",
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            title : 'Data, ML, and AI in Google Cloud Certification',
+            details : 'This course introduces the fundamentals of data, machine learning, and artificial intelligence on Google Cloud, focusing on how to build and deploy intelligent applications using cloud-based tools and services.',
+            date : 'May 4, 2025',
+            field : 'Machine Learning',
+            image : googleCloudImage
         }
     ]
 }
