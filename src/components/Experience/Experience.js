@@ -6,7 +6,7 @@ import './Experience.css';
 
 import { experienceData } from '../../data/experienceData'
 import ExperienceCard from './ExperienceCard';
-import profileImage from '../../assets/png/IMG_4731.jpg'
+import profileImage from '../../assets/png/School of Business Building.avif'
 
 function Experience() {
 

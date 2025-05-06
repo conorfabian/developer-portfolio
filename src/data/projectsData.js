@@ -11,11 +11,11 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
+        projectName: 'NBA Player Prediction Model',
         projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        tags: ['Python', 'Scikit-Learn', 'Jupyter Lab'],
+        code: 'https://github.com/conorfabian',
+        demo: 'https://github.com/conorfabian',
         image: one
     }
 ]
