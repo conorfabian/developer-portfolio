@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/Conor_Fabian_Resume_Software_Engineering (1).pdf'
+import resume from '../assets/pdf/Conor_Fabian_Resume_Software_Engineering (2).pdf'
 import headerImage from '../assets/png/1662331027417.jpg'
 
 export const headerData = {
